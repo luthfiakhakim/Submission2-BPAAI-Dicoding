@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name" translatable="false">StoryApp</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="fill_first">Fill First</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome Back!</string>
+    <string name="greetings">Hello there, login to your existing account</string>
+    <string name="create_acc">Let\'s Get Started!</string>
+    <string name="new_acc">Create a new account</string>
+    <string name="no_acc">Don\'t have an account?</string>
+    <string name="have_acc">Already have an account?</string>
+    <string name="next">Next</string>
+    <string name="logout">Log Out</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="user_story">Story User</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="upload_story">Upload Story</string>
+
+    <string name="must_filled">Name must be filled</string>
+    <string name="desc_filled">Description must be filled</string>
+    <string name="invalid_email">Invalid Email Address</string>
+    <string name="invalid_password">Password can\'t be less than 6 characters</string>
+    <string name="login_success">Login Success</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="ask_logout">Are you sure?</string>
+    <string name="registration_success">Register Success, Login into your account</string>
+    <string name="registration_failed">Register Failed</string>
+    <string name="_continue">Continue</string>
+    <string name="try_again">Try Again</string>
+
+    <string name="greeting">Hi %1$s,</string>
+    <string name="about_app">Share the moment! StoryApp is a fast and fun way to share the moment with your friends and family.</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="description">Description</string>
+    <string name="posted_on">Posted on %1$s</string>
+
+    <string name="invalid_permission">Invalid permission</string>
+    <string name="no_attach_file">No file attached</string>
+    <string name="upload_success">Upload Success</string>
+    <string name="upload_failed">Upload Failed</string>
+    <string name="image_failed">Image Failed</string>
+    <string name="camera_failed">Camera Failed</string>
+    <string name="share_location">Share Location</string>
+    <string name="title_activity_maps">Story Maps</string>
+
+</resources>

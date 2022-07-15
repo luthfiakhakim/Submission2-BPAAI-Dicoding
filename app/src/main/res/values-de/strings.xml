@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name" translatable="false">StoryApp</string>
+
+    <string name="name">Name</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Passwort</string>
+    <string name="login">Anmelden</string>
+    <string name="fill_first">Zuerst Füllen</string>
+    <string name="register">Registrieren</string>
+    <string name="welcome">Willkommen zurück!</string>
+    <string name="greetings">Hallo, melde dich bei deinem bestehenden Konto an</string>
+    <string name="create_acc">Los geht\'s!</string>
+    <string name="new_acc">Erstelle ein neues Konto</string>
+    <string name="no_acc">Du hast kein Konto?</string>
+    <string name="have_acc">Haben Sie bereits ein Konto?</string>
+    <string name="next">Weiter</string>
+    <string name="logout">Abmelden</string>
+    <string name="cancel">Abbrechen</string>
+
+    <string name="user_story">Story-Benutzer</string>
+    <string name="detail_story">Detailgeschichte</string>
+    <string name="upload_story">Story hochladen</string>
+
+    <string name="must_filled">Name muss ausgefüllt werden</string>
+    <string name="desc_filled">Beschreibung muss ausgefüllt werden</string>
+    <string name="invalid_email">Ungültige E-Mail-Adresse</string>
+    <string name="invalid_password">Passwort darf nicht weniger als 6 Zeichen lang sein</string>
+    <string name="login_success">Anmeldung erfolgreich</string>
+    <string name="login_failed">"Anmeldung fehlgeschlagen"</string>
+    <string name="ask_logout">Bist du sicher?</string>
+    <string name="registration_success">Registrieren Sie sich erfolgreich, melden Sie sich bei Ihrem Konto an</string>
+    <string name="registration_failed">Registrierung fehlgeschlagen</string>
+    <string name="_continue">Weiter</string>
+    <string name="try_again">Versuchen</string>
+
+    <string name="greeting">Hallo %1$s,</string>
+    <string name="about_app">Teile den Moment! StoryApp ist eine schnelle und unterhaltsame Möglichkeit, den Moment mit Ihren Freunden und Ihrer Familie zu teilen.</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galerie</string>
+    <string name="upload">Hochladen</string>
+    <string name="description">Beschreibung</string>
+    <string name="posted_on">Gepostet am %1$s</string>
+
+    <string name="invalid_permission">Ungültige Berechtigung</string>
+    <string name="no_attach_file">Keine Datei angehängt</string>
+    <string name="upload_success">Hochladen erfolgreich</string>
+    <string name="upload_failed">Hochladen fehlgeschlagen</string>
+    <string name="image_failed">Bild fehlgeschlagen</string>
+    <string name="camera_failed">Kamera ausgefallen</string>
+    <string name="share_location">Ort teilen</string>
+    <string name="title_activity_maps">Geschichte Karte</string>
+</resources>
